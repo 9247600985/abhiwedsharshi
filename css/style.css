@@ -46,6 +46,11 @@ Tag: bride, ceremony, clean, couple, cute, event, gallery, girly, groom, guestbo
 /* Footer Widget Sass */
 /* Lavender Project Color */
 /* All Sass File Links */
+
+.clearfix{
+  padding-left: 39px !important;
+
+}
 html {
   font-size: 100%; }
 
